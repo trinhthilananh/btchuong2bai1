@@ -1,0 +1,31 @@
+<html>
+	   <head>
+	       <title> BT chương 2 - bài 1</title>
+	       <meta charset = "UTF - 8"></meta>
+	   </head>
+	   <body width =100%>
+      <!-- Tìm một hình ảnh và xây dựng một bảng thông tin hình ảnh đó-->
+      <table cellpadding="10" cellspacing="2" border="2" align="center" bgcolor="orange">
+        <tr>
+          <th colspan="2" width="1000" fone="28"> <b>KHOA MIS HỌC VIỆN NGÂN HÀNG </b></th>
+        </tr>
+        <tr>
+           <td width="600">
+            <h3>Thông tin tổng quan về khoa MIS</h3>
+            <UL>
+             <b>
+              <LI>Hiện nay Khoa Hệ thống thông tin quản lý đang có 22 giảng viên trẻ trung, năng động, sáng tạo.<br>
+              <LI>Đảm nhận nhiệm vụ giảng dạy hơn 20 môn học chuyên ngành.<br>
+              <LI>Khoa Hệ thống thông tin quản lý có hơn 600 sinh viên. <br>
+              <LI>Khoa cũng chịu trách nhiệm giảng dạy các môn học cơ sở có liên quan đến lĩnh vực Tin học và ứng dụng của Công nghệ thông tin trong quản lý và kinh doanh cho sinh viên của toàn Học viện.</b>  
+            </UL>
+        </td>
+
+          <td width="400">
+           <IMG Src ="C:\Users\Dell 15\Desktop\Side lập trình web\img\Logo MIS61.png" Align ="center" width="100%" Height="80%">
+        </td>
+         </tr>
+      </table>
+
+    </body>
+</html>
